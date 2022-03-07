@@ -6,5 +6,6 @@ speedtest-cli
 psutil
 disk
 ffmpeg
+pip install ffpb
 gitpython
 requests
